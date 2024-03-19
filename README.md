@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megamind-28&layout=pie)](https://github.com/megamind-28/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megamind-28&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megamind-28)](https://github.com/megamind-28/github-readme-stats)
 <!--
 **megamind-28/megamind-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
