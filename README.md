@@ -2,12 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megamind-28&layout=pie)](https://github.com/megamind-28/github-readme-stats)
 
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-
-api/top-langs?username=megamind-28
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-
 <!--
 **megamind-28/megamind-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
